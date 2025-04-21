@@ -26,6 +26,6 @@ To run the chatbot, ensure you have the following installed:
 - NLTK library
 
 You can install the required dependencies using pip:
-
+NLTK library
 ```bash
 pip install nltk
